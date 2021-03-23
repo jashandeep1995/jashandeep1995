@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jashandeep1995
 - 👀 I’m interested in Web developement 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning PHP
 
 
 <!---
